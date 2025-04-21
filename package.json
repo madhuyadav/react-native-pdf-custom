@@ -19,13 +19,13 @@
         "viewer"
     ],
     "author": {
-        "name": "Wonday",
-        "url": "https://github.com/wonday"
+        "name": "Madhu",
+        "url": "https://github.com/madhuyadav"
     },
     "license": "MIT",
-    "homepage": "https://github.com/wonday/react-native-pdf",
+    "homepage": "https://github.com/madhuyadav/react-native-pdf-custom",
     "bugs": {
-        "url": "https://github.com/wonday/react-native-pdf/issues"
+        "url": "https://github.com/madhuyadav/react-native-pdf-custom/issues"
     },
     "dependencies": {
         "crypto-js": "4.2.0",
